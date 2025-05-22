@@ -1,0 +1,20 @@
+/* Make quick launch panel more defined */
+.quick-nav-home {
+    box-shadow: none !important; /* Remove shadow */
+    border: 2px solid #2f8bf5 !important; /* Add a bold blue border */
+    background: #dadbdb !important; /* Slightly darker grey background */
+}
+
+.quick-nav-home h6 {
+    color: #2f8bf5 !important; /* Make the title stand out */
+    font-weight: bold;
+    border-bottom: 1px solid #2f8bf5;
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+}
+
+#recent-domains-div {
+    border-top: 1px solid #e0e0e0;
+    margin-top: 10px;
+    padding-top: 10px;
+}
