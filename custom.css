@@ -1,0 +1,13 @@
+#navigation-subbar
+{
+  height: 80px;
+  background-image: -webkit-gradient(top, #049cdb, #c43c35);
+}
+
+.nsicon {
+    color: crimson;
+}
+
+.nav-link-current .nav-arrow {
+    border-color: transparent transparent #ef16d4 transparent;
+}
